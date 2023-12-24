@@ -1,0 +1,253 @@
+*.Athma {
+  --sl-color-accent-low: #131e4f;
+  --sl-color-accent: #3447ff;
+  --sl-color-accent-high: #b3c7ff;
+  --sl-color-white: #ffffff;
+  --sl-color-gray-1: #e7edff;
+  --sl-color-gray-2: #bac2d6;
+  --sl-color-gray-3: #7d8ab1;
+  --sl-color-gray-4: #4b567a;
+  --sl-color-gray-5: #2c3657;
+  --sl-color-gray-6: #1b2444;
+  --sl-color-black: #131726;
+  --sl-color-text: var(--sl-color-gray-2);
+}
+
+*.Auto {
+  --sl-color-accent-low: #151f4c;
+  --sl-color-accent: #3a4af8;
+  --sl-color-accent-high: #b4c7ff;
+  --sl-color-white: #ffffff;
+  --sl-color-gray-1: #e6eff8;
+  --sl-color-gray-2: #b9c3cf;
+  --sl-color-gray-3: #7a8ea3;
+  --sl-color-gray-4: #485a6e;
+  --sl-color-gray-5: #293a4c;
+  --sl-color-gray-6: #182839;
+  --sl-color-black: #121921;
+  --sl-color-text: var(--sl-color-gray-2);
+}
+
+*.Clara {
+  --sl-color-accent-low: #460b05;
+  --sl-color-accent: #c60e00;
+  --sl-color-accent-high: #feb3a6;
+  --sl-color-white: #ffffff;
+  --sl-color-gray-1: #f3ecea;
+  --sl-color-gray-2: #c8c0be;
+  --sl-color-gray-3: #978784;
+  --sl-color-gray-4: #635451;
+  --sl-color-gray-5: #423432;
+  --sl-color-gray-6: #302321;
+  --sl-color-black: #1d1715;
+  --sl-color-text: var(--sl-color-gray-2);
+}
+
+*.Gus {
+  --sl-color-accent-low: #242424;
+  --sl-color-accent: #6a6a6a;
+  --sl-color-accent-high: #c8c8c8;
+  --sl-color-white: #ffffff;
+  --sl-color-gray-1: #eeeeee;
+  --sl-color-gray-2: #c2c2c2;
+  --sl-color-gray-3: #8b8b8b;
+  --sl-color-gray-4: #585858;
+  --sl-color-gray-5: #383838;
+  --sl-color-gray-6: #272727;
+  --sl-color-black: #181818;
+  --sl-color-text: var(--sl-color-gray-2);
+}
+
+*.Jake {
+  --sl-color-accent-low: #072d00;
+  --sl-color-accent: #247f00;
+  --sl-color-accent-high: #aad7a0;
+  --sl-color-white: #ffffff;
+  --sl-color-gray-1: #eaf0e8;
+  --sl-color-gray-2: #bdc4bb;
+  --sl-color-gray-3: #82907f;
+  --sl-color-gray-4: #4f5c4d;
+  --sl-color-gray-5: #303c2d;
+  --sl-color-gray-6: #1f2a1c;
+  --sl-color-black: #151a13;
+  --sl-color-text: var(--sl-color-gray-2);
+}
+
+*.Janos {
+  --sl-color-accent-low: #242424;
+  --sl-color-accent: #6a6a6a;
+  --sl-color-accent-high: #c8c8c8;
+  --sl-color-white: #ffffff;
+  --sl-color-gray-1: #eeeeee;
+  --sl-color-gray-2: #c2c2c2;
+  --sl-color-gray-3: #8b8b8b;
+  --sl-color-gray-4: #585858;
+  --sl-color-gray-5: #383838;
+  --sl-color-gray-6: #272727;
+  --sl-color-black: #181818;
+  --sl-color-text: var(--sl-color-gray-2);
+}
+
+*.Karin {
+  --sl-color-accent-low: #252510;
+  --sl-color-accent: #6e6f0c;
+  --sl-color-accent-high: #c9cbb0;
+  --sl-color-white: #ffffff;
+  --sl-color-gray-1: #f4f1bb;
+  --sl-color-gray-2: #cac683;
+  --sl-color-gray-3: #988f00;
+  --sl-color-gray-4: #615a00;
+  --sl-color-gray-5: #3e3a00;
+  --sl-color-gray-6: #2b2800;
+  --sl-color-black: #1b1900;
+  --sl-color-text: var(--sl-color-gray-2);
+}
+
+*.Lambda {
+  --sl-color-accent-low: #3c0d35;
+  --sl-color-accent: #b2009d;
+  --sl-color-accent-high: #eeb3e0;
+  --sl-color-white: #ffffff;
+  --sl-color-gray-1: #f8e8f3;
+  --sl-color-gray-2: #cebbc9;
+  --sl-color-gray-3: #a27f99;
+  --sl-color-gray-4: #6c4c64;
+  --sl-color-gray-5: #4a2d43;
+  --sl-color-gray-6: #371b31;
+  --sl-color-black: #20131d;
+  --sl-color-text: var(--sl-color-gray-2);
+}
+
+*.Lance {
+  --sl-color-accent-low: #36113e;
+  --sl-color-accent: #a400c0;
+  --sl-color-accent-high: #e3b6ed;
+  --sl-color-white: #ffffff;
+  --sl-color-gray-1: #f2e9fd;
+  --sl-color-gray-2: #c7bdd5;
+  --sl-color-gray-3: #9581ae;
+  --sl-color-gray-4: #614e78;
+  --sl-color-gray-5: #412e55;
+  --sl-color-gray-6: #2f1c42;
+  --sl-color-black: #1c1425;
+  --sl-color-text: var(--sl-color-gray-2);
+}
+
+*.Lex {
+  --sl-color-accent-low: #460914;
+  --sl-color-accent: #c5003e;
+  --sl-color-accent-high: #feb1b5;
+  --sl-color-white: #ffffff;
+  --sl-color-gray-1: #fce8ed;
+  --sl-color-gray-2: #d3bbc1;
+  --sl-color-gray-3: #a97d8a;
+  --sl-color-gray-4: #734b57;
+  --sl-color-gray-5: #502b37;
+  --sl-color-gray-6: #3d1a26;
+  --sl-color-black: #231318;
+  --sl-color-text: var(--sl-color-gray-2);
+}
+
+*.Luna {
+  --sl-color-accent-low: #072d00;
+  --sl-color-accent: #247f00;
+  --sl-color-accent-high: #aad7a0;
+  --sl-color-white: #ffffff;
+  --sl-color-gray-1: #eaf0e8;
+  --sl-color-gray-2: #bdc4bb;
+  --sl-color-gray-3: #82907f;
+  --sl-color-gray-4: #4f5c4d;
+  --sl-color-gray-5: #303c2d;
+  --sl-color-gray-6: #1f2a1c;
+  --sl-color-black: #151a13;
+  --sl-color-text: var(--sl-color-gray-2);
+}
+
+*.Maude {
+  --sl-color-accent-low: #00273d;
+  --sl-color-accent: #0071a7;
+  --sl-color-accent-high: #92d1fe;
+  --sl-color-white: #ffffff;
+  --sl-color-gray-1: #e2f1f6;
+  --sl-color-gray-2: #b4c5cb;
+  --sl-color-gray-3: #6f929d;
+  --sl-color-gray-4: #3d5e68;
+  --sl-color-gray-5: #1d3d47;
+  --sl-color-gray-6: #092b35;
+  --sl-color-black: #0d1a1f;
+  --sl-color-text: var(--sl-color-gray-2);
+}
+
+*.Steve {
+  --sl-color-accent-low: #411300;
+  --sl-color-accent: #af4200;
+  --sl-color-accent-high: #fbb69a;
+  --sl-color-white: #ffffff;
+  --sl-color-gray-1: #f6ece3;
+  --sl-color-gray-2: #ccbfb5;
+  --sl-color-gray-3: #9e8673;
+  --sl-color-gray-4: #695341;
+  --sl-color-gray-5: #473322;
+  --sl-color-gray-6: #352211;
+  --sl-color-black: #1f160f;
+  --sl-color-text: var(--sl-color-gray-2);
+}
+
+@keyframes floating {
+
+  0%,
+  100% {
+    transform: translateY(0) rotateY(180deg) scaleX(100%);
+  }
+
+  50% {
+    transform: translateY(-3px) rotateY(180deg) scaleX(95%);
+  }
+}
+
+.tip-box {
+  display: flex;
+  box-sizing: border-box;
+  flex-direction: row;
+  width: 99%;
+  border: 1px solid var(--sl-color-gray-5);
+  background-color: var(--sl-color-gray-6);
+  padding: 10px;
+}
+
+.tip-rue {
+  display: flex;
+  flex-direction: column;
+  padding-right: 15px;
+  min-width: 70px !important;
+  max-width: 70px !important;
+}
+
+.tip-content {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  max-width: 100%;
+  margin: 0 !important;
+  padding: 0 !important;
+  padding-right: 10px !important;
+  color: var(--sl-color-text);
+}
+
+.tip-content * {
+  text-align: justify;
+}
+
+.tip-content span {
+  margin-bottom: 5px;
+}
+
+.tip-header {
+  font-size: large;
+  font-weight: bold;
+  margin-bottom: 0px !important;
+}
+
+.tip-rue>img {
+  animation: floating 2s ease-in-out infinite;
+}
